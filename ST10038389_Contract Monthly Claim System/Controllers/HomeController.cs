@@ -50,3 +50,13 @@ namespace ST10038389_Contract_Monthly_Claim_System.Controllers
         }
     }
 }
+// <Summary of the Home Controller Code>
+// Lines 16 to 44:
+// These lines are the IActionResult which is an interface in ASP.NET Core Model-View-Controller (MVC).
+// It represents the action method.
+// It is used to return a response to the users.
+// The Index method is the default action that gets called when a specific action is taken into account.
+// The Return View method that corresponds to the action method name in which case it is Index.cshtml, DashBoard.cshtml, and so on.
+// </Summary>
+
+
