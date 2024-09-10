@@ -11,8 +11,6 @@ Anon., 2024. Bootstrap Versions. [Online]
 Available at: https://www.w3schools.com/bootstrap/bootstrap_ver.asp
 [Accessed 14th and 9th August to September 2024].
 Japikse, A. T. &. P., 2021. Pro C# 9 with .NET5. 10 ed. West Chester,OH,USA: Apress.
-OpenAi, 2023. Fixing errors and maitaining code issues. [Online] 
-Available at: https://chat.openai.com/chat
 [Accessed 1st to 9th September 2024].
 W3schools, 2024. CSS Tutorial. [Online] 
 Available at: https://www.w3schools.com/css/default.asp
